@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789800720006",
+    "firebase_url": "https://final-proj-chatroom.firebaseio.com",
+    "project_id": "final-proj-chatroom",
+    "storage_bucket": "final-proj-chatroom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789800720006:android:cc2cb17f8d55b11e",
+        "android_client_info": {
+          "package_name": "tw.edu.stust.finalproj_chatroom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789800720006-38vs3oag2gkar7rg3q5881sj8b6rb951.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.edu.stust.finalproj_chatroom",
+            "certificate_hash": "a5e9a1770845dfc37be41eec755d1bc7495d0789"
+          }
+        },
+        {
+          "client_id": "789800720006-amm6mu0nbgs944ol85tvibajdjeuk12n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcsM-wNzvYp9Z-sdqlXsPJEdT0okUV93g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789800720006-amm6mu0nbgs944ol85tvibajdjeuk12n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
