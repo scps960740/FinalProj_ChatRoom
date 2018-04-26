@@ -7,7 +7,7 @@
 
 組員: 資管三乙 4A390153 張衡軒
 
-<p>使用Android Studio與Firebase並搭配Facebook Login Api來建立簡易的聊天室!</p>
+<h4>使用Android Studio與Firebase並搭配Facebook Login Api來建立簡易的聊天室!</h4>
 
 
 Demo Url (Youtube Video)
